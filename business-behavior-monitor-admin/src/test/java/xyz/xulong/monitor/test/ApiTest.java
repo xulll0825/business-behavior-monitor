@@ -5,6 +5,7 @@ import org.junit.jupiter.api.Test;
 
 @Slf4j
 public class ApiTest {
+
     @Test
     public void test_ognl() {
 
